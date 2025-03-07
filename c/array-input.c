@@ -1,3 +1,10 @@
+/**
+ *  Write a program that:
+ * 	1.	Takes an integer n as input, representing the size of an array.
+ * 	2.	Takes n numbers as input and stores them in an array.
+ * 	3.	Prints all elements in the array.
+ */
+
 #include <stdio.h>
 
 int main()
