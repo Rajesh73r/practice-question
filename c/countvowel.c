@@ -16,7 +16,7 @@ int main() {
     int i, count = 0;
 
     printf("\n Enter a string: ");
-    scanf("%c",&st);
+    scanf("%s",&st);
 
     printf("\n Voiwel = ");
 
